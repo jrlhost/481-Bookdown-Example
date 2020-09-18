@@ -11,7 +11,7 @@ Here are the steps to follow:
 
 <ol type="a">
   <li>
-Click the green "Use this template" button in GitHub. Give it your own name, something like BookdownExample. Please make it a Private repo instead of public.
+Click the green "Use this template" button in GitHub. Give it your own name, something like BookdownExample. <del>Please make it a Private repo instead of public.</del>--Never mind about making it private. Apparently with a free account it won't let you create the GitHub Pages part if its private. So just leave this as public. (On a related note, you can request a Pro account for free as part of GitHub for education: https://education.github.com/discount_requests/student_application) 
   </li>
  </ol>
  
